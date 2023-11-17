@@ -3,3 +3,4 @@ src/
 webpack.config.js.forts
 webpack.config.js.old
 ts_src/
+tsconfig.json

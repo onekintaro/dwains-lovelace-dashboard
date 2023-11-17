@@ -55,3 +55,7 @@ HQVM5K~K
 HVFWCC~H
 changelog.MD
 dwains-dashboard copy/
+
+/custom_components/dwains_dashboard/js/webpack.config.js.forts
+/custom_components/dwains_dashboard/js/webpack.config.js.old
+/custom_components/dwains_dashboard/js/ts_src
